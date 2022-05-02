@@ -36,11 +36,7 @@
 .ct-subheadline-label {
     @apply  uppercase mx-4 font-bold text-xs text-gray-500 text-center tracking-widest;
 }
-/* 
-.ct-on-sale {
-    @apply ;
-} */
 
 .ct-button {
-    @apply text-center uppercase tracking-wider py-5 px-4 text-xs font-bold cursor-pointer hover:opacity-95;
+    @apply text-center uppercase tracking-wider py-5 px-8 text-xs font-bold cursor-pointer hover:opacity-95 hover:transition-all hover:ease-in-out hover:duration-500;
 }
