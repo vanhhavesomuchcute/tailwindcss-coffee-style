@@ -40,3 +40,7 @@
 .ct-button {
     @apply text-center uppercase tracking-wider py-5 px-8 text-xs font-bold cursor-pointer hover:opacity-95 hover:transition-all hover:ease-in-out hover:duration-500;
 }
+
+.ct-link {
+    @apply hover:text-coffee-400 duration-500;
+}
