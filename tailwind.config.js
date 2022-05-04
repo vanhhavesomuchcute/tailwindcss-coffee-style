@@ -7,6 +7,10 @@ module.exports = {
       'xs': '475px',
       ...defaultTheme.screens,
     },
+    fontSize: {
+      's': '.65rem',
+      ...defaultTheme.fontSize,
+    },
     extend: {      
       fontFamily: {
         Karla: ['Karla', 'sans-serif']
